@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background: url('../assets/img_mov_header_cod-bin-fund_.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 20px;
+}
+
+
+header img.logo {
+    width: 150px;
+    height: auto;
+}
+
+.img_perfil {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+    margin-left: auto;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #652503;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 15px;
+    display: block;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+}
+
+section {
+    padding: 20px;
+}
+
+section h2 {
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+
+#projects div {
+    margin-bottom: 20px;
+}
+
+#projects img {
+    max-width: 100%;
+    height: auto;
+}
+
+#img_proj2_cursos_infinity , #img_proj1_telaTk_convers_cm_m , #img_proj3_menu_list_taref{
+    width: 400px;
+}
+
+#contact{
+    background-color: #79716d;
+    
+}
+
+#box_mensag_contact{
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
