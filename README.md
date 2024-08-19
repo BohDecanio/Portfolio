@@ -1,0 +1,2 @@
+O projeto é um portfolio contendo 3 projetos: 1 ainda sem janela de front, sendo apresentado em  terminal; o outro é apresentado através de Tkinter; o terceiro é feito, assim como este, em html,css e javascript. Além de ter um arquivo pdf para apresentação completa do meu currículo.
+Este projeto está arquitetado em módulos e estruturado semânticamente. Apliquei BootStrap, para menu e o GPT criou a base do projeto. Editei foto com o copilot. 
